@@ -46,6 +46,6 @@ Atualmente, meu foco é:
 ## 📫 Entre em Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yunaremaia/)
-- 📧 [Seu Email](yunare@gmail.com)
+- 📧 [Seu Email](mailto:yunare@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios e colaborar. Estou sempre aberto a novas ideias e parcerias. Vamos construir algo incrível juntos!
